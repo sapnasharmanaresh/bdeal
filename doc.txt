@@ -1,1 +1,3 @@
 git repository
+
+want to say I know I did it , nnow I know how to use git
